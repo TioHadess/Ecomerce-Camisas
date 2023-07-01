@@ -1,2 +1,2 @@
 # Ecomerce-Camisas
- Site das camisas estampadas de forma **clen**
+ Site das camisas estampadas de forma **clean**
